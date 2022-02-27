@@ -1,0 +1,253 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nineteen propositions made by both Houses of Parliament, to the Kings Majestie, for a reconciliation of the differences between his Majesty, and the said Houses VVhereunto is annexed, two orders of Parliament, the one concerning the jewels of the crown, The other, for the peedie returne of the members of the hounourable house of Commons, by the sixteenth of this moneth of Iune, 1642. And also, Sir John Hothams letter to a worthy member of the House of Commons; concerning the late discovery at Hull. And the oaths of the Kings of England, taken out of the Parliament roll. I. H. 4. N. 17. Die jovis 2. die Iunii. 1642. Ordered by the Lords in Parliament, that these propositions, with the two orders, bee forthwith printed, and published. Jo. Browne cleric. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82912</idno>
+            <idno type="STC">Wing E1675</idno>
+            <idno type="STC">ESTC R231779</idno>
+            <idno type="EEBO-CITATION">99900023</idno>
+            <idno type="PROQUEST">99900023</idno>
+            <idno type="VID">133260</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133260)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2497:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nineteen propositions made by both Houses of Parliament, to the Kings Majestie, for a reconciliation of the differences between his Majesty, and the said Houses VVhereunto is annexed, two orders of Parliament, the one concerning the jewels of the crown, The other, for the peedie returne of the members of the hounourable house of Commons, by the sixteenth of this moneth of Iune, 1642. And also, Sir John Hothams letter to a worthy member of the House of Commons; concerning the late discovery at Hull. And the oaths of the Kings of England, taken out of the Parliament roll. I. H. 4. N. 17. Die jovis 2. die Iunii. 1642. Ordered by the Lords in Parliament, that these propositions, with the two orders, bee forthwith printed, and published. Jo. Browne cleric. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed the fourth of Iune, for W. Gaye,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Copy filmed at UMI microfilm Early English Books 1641-1700 reel 2497 has print show-through.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133260:1" rendition="simple:additions"/>
+            <pb facs="tcp:133260:1" rendition="simple:additions"/>
+            <p>NINETEEN PROPOSITIONS MADE BY BOTH HOVSES OF PARLIAMENT, TO THE KINGS MAIESTIE, FOR A RECONCILIATION Of the differences between His <hi>MAJESTY,</hi> and the ſaid HOUSES.</p>
+            <p>VVhereunto is annexed, two Orders of Parliament, the one Concerning the IEVVELS of the CROVVN.</p>
+            <p>The other, for the ſpeedie Returne of the Members of the Honourable houſe of Commons, by the ſixteenth of this Moneth of <hi>Iune,</hi> 1642.</p>
+            <p>And alſo, Sir <hi>John Hothams</hi> Letter to a worthy Member of the Houſe of COMMONS; Concerning the late diſcovery at HULL.</p>
+            <p>And the Oaths of the Kings of ENGLAND, taken out of the Parliament Roll. 1. <hi>H.</hi> 4. <hi>N.</hi> 17.</p>
+            <p>
+               <q>
+                  <floatingText>
+                     <body>
+                        <div type="Parliamentary_order">
+                           <opener>
+                              <date>
+                                 <hi>Die Iovis</hi> 2. <hi>die</hi> Iunii. 1642.</date>
+                           </opener>
+                           <p>Ordered by the Lords in Parliament, that theſe <hi>Propoſitions,</hi> with the two <hi>Orders,</hi> bee forthwith Printed, and publiſhed.</p>
+                           <closer>
+                              <signed>Jo. Browne Cleric. Parliamentorum.</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed the fourth of <hi>Iune,</hi> for <hi>W. Gaye.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb n="2" facs="tcp:133260:2"/>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Majeſties moſt humble and faithfull Subjects, the Lords and Commons in Parliament, having nothing in their thoughts and deſires more precious, and of higher eſteem (next to the honour and immediate ſervice of God) then the juſt and faithfull perfor<g ref="char:EOLhyphen"/>mance of their dutie to Your Majeſty and this Kingdome; And being very ſenſible of the great diſtractions, and diſtempers, and of the imminent dangers and calamities which thoſe diſtractions and diſtempers are like to bring upon Your Majeſty and Your Subjects, all which have proceeded from the ſubtill inſinuations, miſchievous practices, and evill Counſels of men diſ<g ref="char:EOLhyphen"/>affected to Gods true Religion, Your Majeſties honour and ſafety, and the pub<g ref="char:EOLhyphen"/>like peace and proſperitie of your people. After a ſerious obſervation of the cauſes of thoſe miſchiefes, doe in all humilitie and ſinceritie preſent to your Majeſty their moſt dutifull Petition and adviſe, that out of your Princely wiſdome for the eſta<g ref="char:EOLhyphen"/>bliſhing your own honour and ſafetie, and gracious tenderneſſe of the wellfare and ſecuritie of your Subjects and Dominions, you will be pleaſed to grant and accept theſe their humble deſires &amp; propoſitions, as the moſt neceſſary effectuall means, through Gods bleſſing, of removing thoſe jealouſies and differences which have unhappily fallen betwixt you and your people, and procuring both Your Majeſtie and them a conſtant courſe of honour, peace, and happineſſe.</p>
+            <p n="1">1. That the Lords and others of your Majeſties Privy Councell, and ſuch great Officers &amp; Miniſters of State, either at home or beyond the Seas, may be put from your Privy Councell, and from thoſe Offices and imployments, excepting ſuch as ſhall be approved of by both Houſes of Parliament. And that the Perſons put in<g ref="char:EOLhyphen"/>to the places and imployments of thoſe that are removed, may be approved of by both Houſes of Parliament: And that all Privy Counſellors ſhall take an Oath for the due execution of their places, in ſuch forme as ſhall be agreed upon by both Houſes of Parliament.</p>
+            <p n="2">2. That the great affaires of this Kingdom may not be concluded or tranſacted by the advice of private men, or by any unknowne or unſworne Counſellours; but that ſuch matters as concerne the publique, and are proper for the high Court of Parliament, which is Your Majeſties great and ſupreame Councell, may be de<g ref="char:EOLhyphen"/>bated, reſolved, and tranſacted onely in Parliament, and not elſewhere; And ſuch as ſhall preſume to doe any thing to the contrary, ſhall be reſerved to the cenſure and judgement of Parliament; And ſuch other matters of State as are proper for your Majeſties Privy Councell, ſhall be debated and concluded by ſuch of the No<g ref="char:EOLhyphen"/>bilitie and others as ſhall from time to time be choſen for that place by approbati<g ref="char:EOLhyphen"/>on of both Houſes of Parliament; And that no publique Act concerning the af<g ref="char:EOLhyphen"/>faires of the Kingdome, which are proper for your Privy Councell, may be eſtee<g ref="char:EOLhyphen"/>med of any validitie as proceeding from the royall Authoritie, unleſſe it be done
+<pb n="3" facs="tcp:133260:2"/>by the advice and conſent of the major part of your Councell atteſted under their hands. And that your Councell may be limited to a certaine number, not excee<g ref="char:EOLhyphen"/>ding twenty-five, nor under fifteene. And if any Counſellors place happen to be voyd in the Intervals of Parliament, it ſhall not be ſupplyed without the aſſent of the major part of the Councell, which choice ſhall be confirmed at the next ſitting of the Parliament, or elſe to be voyd.</p>
+            <p n="3">3. That the Lord high Steward of <hi>England,</hi> Lord high Conſtable, Lord Chaun<g ref="char:EOLhyphen"/>cellor, or Lord Keeper of the great Seale, Lord Treaſurer, Lord Privy Seale, Earle Marſhall, Lord Admirall, Warden of the Cinque Ports, chiefe Governour of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> Chauncellour of the <hi>Exchequer,</hi> Maſter of the Wards, Secretaries of State, two chiefe Juſtices and chiefe Baron, may alwayes be choſen with the approbati<g ref="char:EOLhyphen"/>on of both Houſes of Parliament; And in the Intervalls of Parliament by aſſent of the major part of the Councell, in ſuch manner as is before expreſt in the choice of Councellors.</p>
+            <p n="4">4. That he or they unto whom the Government and education of the Kings Children ſhall be committed, ſhall be approved of by both Houſes of Parliament, and in the Intervalls of Parliaments, by the aſſent of the major part of the Coun<g ref="char:EOLhyphen"/>cell, in ſuch manner as is before expreſt in the choice of Counſellors; And that all ſuch ſervants <gap reason="illegible: faint" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> about them, againſt whom both Houſes ſhall have a<g ref="char:EOLhyphen"/>ny juſt exception ſhall be removed.</p>
+            <p n="5">5. That no Marriage ſhall be concluded, or treated for any of the Kings Children, with any forreign Prince, or other perſon whatſoever abroad, or at home, without the conſent of Parliament, under the Penaltie of a premunire unto ſuch as ſhall ſo conclude, or treate any Marriage as aforeſaid, And that the ſaid penaltie ſhall not be pardoned, or diſpenſed with, but by the conſent of both Hou<g ref="char:EOLhyphen"/>ſes of Parliament.</p>
+            <p n="6">6. That the Lawes in force againſt Jeſuites, Prieſts, and Popiſh Recuſants, be ſtrictly put in execution, without any tolleration, or diſpenſation to the contra<g ref="char:EOLhyphen"/>ry; And that ſome more effectuall courſe may be enacted, by authoritie of Par<g ref="char:EOLhyphen"/>liament, to diſable them from making any diſturbance in the State, or eluding the Law by truſts or otherwiſe.</p>
+            <p n="7">7. That the Votes of Popiſh Lords in the Houſe of Peeres may be taken away, ſo long as they continue Papiſts. And that his Majeſtie would conſent to ſuch a Bill as ſhall be drawne for the education of the children of Papiſts by Proteſtants, in the Proteſtant Religion.</p>
+            <p n="8">8. That your Majeſtie will be pleaſed to conſent that ſuch a reformation be made of the Church-government, and Liturgy, as both Houſes of Parliament ſhall adviſe, wherein they intend to have conſultations with Divines, as is ex<g ref="char:EOLhyphen"/>preſſed in their Declaration to that purpoſe. And that your Majeſtie will contri<g ref="char:EOLhyphen"/>bute your beſt aſſiſtance to them, for the raiſing of a ſufficient maintenance for Preaching Miniſters through the Kingdome. And that your Majeſty will be plea<g ref="char:EOLhyphen"/>ſed to give your conſent to Lawes, for the taking away of innovations, and ſuper<g ref="char:EOLhyphen"/>ſtition, and of pluralities, and againſt ſcandalous Miniſters.</p>
+            <p n="9">9. That your Majeſtie will be pleaſed to reſt ſatisfied with that courſe that the Lords and Commons have appointed for ordering the <hi>Militin,</hi> untill the ſame ſhall
+<pb n="4" facs="tcp:133260:3"/>be further ſettled by a Bill. And that your Majeſtie will recall your Declarations, and Proclamations againſt the Ordinance made by the Lords and Commons con<g ref="char:EOLhyphen"/>cerning it.</p>
+            <p n="10">10. That ſuch Members of either Houſe of Parliament, as have during this pre<g ref="char:EOLhyphen"/>ſent Parliament been put out of any place and office, may either be reſtored to that place and office, or otherwiſe have ſatisfaction for the ſame, upon the Petition of that Houſe whereof he or they are Members.</p>
+            <p n="11">11. That all Privy Counſellors and Judges may take an Oath, the forme whereof to be agreed on and ſetled by act of Parliament, for the maintaining of the Petition of Right, and of certaine Statutes made by this Parliament, which ſhall be mentioned by both Houſes of Parliament. And that an inquiry of all the breaches and violations of theſe Lawes may be given in charge, by the Juſtices of the Kings Bench every Terme, and by the Judges of Aſſize in their Circuits, and Juſtices of Peace at the Seſſions, to be preſented and puniſhed according to Law.</p>
+            <p n="12">12. That all the Judges and all Officers placed by approbation of both Houſes of Parliament, may hold their places <hi>Quam diu bene ſe geſſerint.</hi>
+            </p>
+            <p n="13">13. That the Juſtice of Parliament may paſſe upon all Delinquents, whether they be within the Kingdome, or fled out of it. And that all perſons cited by ei<g ref="char:EOLhyphen"/>ther Houſe of Parliament may appeare and abide the cenſure of Parliament.</p>
+            <p n="14">14. That the generall pardon offered by your Majeſtie may be graunted with ſuch exceptions as ſhall be adviſed by both Houſes of Parliament.</p>
+            <p n="15">15. That the Forts and Caſtles of this Kingdome may be put under the com<g ref="char:EOLhyphen"/>mand and cuſtody of ſuch perſons as your Majeſtie ſhall appoint, with the appro<g ref="char:EOLhyphen"/>bation of your Parliament. And in the Intervalls of Parliament with the appro<g ref="char:EOLhyphen"/>bation of the Major part of the Councell in ſuch manner as is before expreſſed in the choice of Counſellors.</p>
+            <p n="16">16. That the extraordinary Guards and Military forces now attending your Majeſtie, may be removed and diſcharged. And that for the future you will raiſe no ſuch guards or extraordinary forces, but according to Law, in caſe of actuall rebellion or invaſion.</p>
+            <p n="17">17. That your Majeſtie will be pleaſed to enter into a more ſtrict alliance with the States of the united Provinces and other Neighbour Princes and States of the Proteſtant Religion, for the defence and maintenance thereof againſt all deſignes and attempts of the Pope and his adherents to ſubvert and ſuppreſſe it, whereby your Majeſtie will obtaine a great acceſſe of ſtrength and reputation, and your ſub<g ref="char:EOLhyphen"/>jects be much encouraged and enabled in a Parliamentary way for your ayde and aſſiſtance, in reſtoring your royall Siſter, and the Princely Iſſue, to thoſe dignities and dominions which belong unto them, and relieving the other diſtreſſed Prote<g ref="char:EOLhyphen"/>ſtant Princes, who have ſuffered in the ſame cauſe.</p>
+            <p n="18">18. That Your Majeſty will be pleaſed by Act of Parliament, to cleere the Lord <hi>Kimbolton,</hi> and the five Members of the Houſe of Commons, in ſuch manner, that future Parliaments may be ſecured from the Conſequence of that evill Preſident.</p>
+            <p n="19">19. That Your Majeſty will bee graciouſly pleaſed to paſſe a Bill for reſtrain<g ref="char:EOLhyphen"/>ing Peeres made hereafter, from Sitting, or Voting in Parliament; Unleſſe they be admitted thereunto, with the Conſent of both Houſes of Parliament.</p>
+            <pb n="5" facs="tcp:133260:3"/>
+            <p> And theſe Our humble deſires, being granted by Your Majeſty, Wee ſhall forth<g ref="char:EOLhyphen"/>with apply Our ſelves to regulate Your preſent revenew, in ſuch ſort as may bee for Your beſt advantage; and likewiſe to ſettle ſuch an ordinary and conſtant in<g ref="char:EOLhyphen"/>creaſe of it, as ſhall be ſufficient to ſupport. Your Royall dignity, in Honour and plenty, beyond the proportion of any former Grants of the Subjects of this King<g ref="char:EOLhyphen"/>dom to your Majeſties Royall Predeceſſors.</p>
+            <p>Wee ſhall likewiſe put the Towne of <hi>Hull,</hi> into ſuch hands as Your Majeſty ſhall appoint, with the Conſent and approbation of Parliament, and deliver up a Juſt account of all the Magazine; and cheerfully employ the uttermoſt of Our power and endeavour, in the reall expreſſion and performance of our moſt dutifull and Loyall affections, to the preſerving, and maintaining the Royall Honour, Greatneſſe, and Safety of Your Majeſty, and your Poſterity.</p>
+         </div>
+         <div type="declaration">
+            <opener>
+               <date>Die Iovis 2. Iunii. 1642.</date>
+            </opener>
+            <p>VVHereas it doth appear to the Lords and Commons in Parliament; That the King, ſeduced by wicked Counſel doth intend to leavy War againſt his Parliament; and whereas Information hath been given, That the Jewels of the Crown (which by the Law of the Land ought not to be alienated) are either pawned or ſold in <hi>Amſterdam;</hi> or ſome other parts beyond the Seas, and thereby great Sums of Money provided to be returned to <hi>York,</hi> or to ſome other of His Majeſties Servants or Agents for His Majeſties uſe: And whereas 'tis more then probable, That this great Proviſion of Moneys in ſuch an extraordinary way, is to maintain this intended War, and thereby to bring the whole Kingdom into ut<g ref="char:EOLhyphen"/>ter ruine and combuſtion. It is therefore declared by the Lords and Commons in Parliament, That whoſoever hath been, or ſhall be an Actor in the ſelling or pawning of any of the Jewels of the Crown; or hath, or ſhall pay, lend, ſend, or bring any Money in <hi>Specie</hi> into this Kingdom, for, or upon any of thoſe Jewels; Or whoſoever hath; or ſhall accept of any Bill from beyond the Seas, for the pay<g ref="char:EOLhyphen"/>ment of any ſum of Money for, or upon any of thoſe Jewels, and ſhall paſſe any ſum according to ſuch Bill; after notice of this Order, without acquainting this Houſe with the receit or ſuch Bill before he accept the ſame, Or if he have already accepted any ſuch Bill, then with the acceptance thereof before the payment of the Money, Every ſuch perſon ſhall be held and accounted a promoter of this intend<g ref="char:EOLhyphen"/>ed War, an enemy to the State, and ought to give ſatisfaction for this publique dammage out of his own Eſtate.</p>
+            <closer>
+               <signed>H. Elſynge. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_order">
+            <pb n="6" facs="tcp:133260:4"/>
+            <opener>
+               <date>Die Iovis 2<hi rend="sup">d</hi>. Iunii. 1642.</date>
+            </opener>
+            <p>IT is this day Ordered by the Commons now aſſembled in Parliament, That the ſeverall Members of this Houſe, do forthwith give their Attendance upon the publique Service of this Commonwealth with which they are entruſted by their Countreys. And the Sheriffs of the ſeverall Counties of this Kingdom of <hi>England</hi> and Dominion of <hi>Wales</hi> are required to give Notice of this Order unto all ſuch Members of the Houſe of Commons as are within their reſpective Coun<g ref="char:EOLhyphen"/>ties; and ſpeedily to make return of ſuch their doings, unto the <hi>Speaker</hi> of that Houſe: And all ſuch as ſhall not make their perſonall appearance by the ſixteenth day of this inſtant <hi>June,</hi> in the Houſe of Commons, ſhall each one forfeit One hundred pounds, to be diſpoſed of to the Wars in <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and undergo ſuch fur<g ref="char:EOLhyphen"/>ther cenſure and puniſhment as the ſaid Houſe ſhall think fit for ſo great neglect of their duty in a time that ſo neceſſarily requires their aſſiſtance.</p>
+            <p>Provided alwayes, That all ſuch as are ſpecially imployed by this Houſe, are to remain in ſuch imployments, untill they ſhall have particular directions for their return.</p>
+            <closer>
+               <signed>
+                  <hi>Ordered that it be forthwith Printed.</hi> H. Elſynge Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Sir <hi>John Hothams</hi> Letter to a worthy Member of the Houſe of <hi>Commons,</hi> concerning the late diſcovery at <hi>Hull.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce my laſt to you, It hath pleaſed Almighty God, out of his great mercy to us here, and the Kingdom, to preſerve us from, an eminent danger, and ruin plotted againſt us here, which I thought fit to acquaint you with. I writ a word of it to the Committee at <hi>York,</hi> but ſince have made a more ample diſ<g ref="char:EOLhyphen"/>covery. I have within my Company, a Lieutenant, his name is <hi>Foolks,</hi> ſonne in law to one Maſter <hi>Thomas Beckwith</hi> a Recuſant, at <hi>Beverley,</hi> a good Souldier, but poore. This man, his father in law, thought a fit Inſtrument to work upon, and to that end, ſent for him, to come over to him. The Gentleman preſently ac<g ref="char:EOLhyphen"/>quaints me with it, and asked my leave and advice therein; Proteſting, that both in regard of the honour of a Souldier, and a Gentleman, nothing ſhould paſſe, but I ſhould know. He had formerly been obliged to me, and therefore I gave him leave to go with directions to yeeld to ſuch Propoſitions, as ſhould be made him; for otherwiſe being in their power, I knew not how they might have uſed him. At his return he told me, that at his firſt coming, after an unuſuall kind welcome, that Maſter <hi>Beckwith</hi> broke the matter to him, That if he would do ſervice, &amp;c.
+<pb n="7" facs="tcp:133260:4"/>he ſhould be rewarded in a great meaſure, intimating to him, how unable I was to prefer him in any way of ſubſiſtance. To be ſhort, He made a plain contract with him, That if he could betray a Port, he ſhould have five hundred pound in hand, and two hundred and fifty pound, <hi>per annum,</hi> for his life, this he willingly accepted; then <hi>Beckwith</hi> diſcourſed with him of the means, how he could do this: he told him. That upon Thurſday night, the 26. day of this <hi>May,</hi> he had the guard at the <hi>Northgate,</hi> and if Alarum were given at another Gate, called <hi>Haſſell</hi> Gate, he could then let them in. This thus over-night concluded upon next mor<g ref="char:EOLhyphen"/>ning he was brought into the preſence of one <hi>Triſt,</hi> he was a Papiſt, and command<g ref="char:EOLhyphen"/>ed M<hi rend="sup">r</hi>. <hi>Percies</hi> Troop of Horſe at the defeat at <hi>Newbourn,</hi> and one Captain <hi>Court<g ref="char:EOLhyphen"/>ney,</hi> and ſix others; ſome of which, his father in-law told him, were Lords diſ<g ref="char:EOLhyphen"/>guiſed: theſe promiſed him to make good his reward; but they doubted, unleſſe ſome Captain might likewiſe be aiding, it might miſſe of performance, and there<g ref="char:EOLhyphen"/>fore propounded to him to draw his Captain into the buſineſſe. <hi>Lowanger</hi> a Dutch man (a man truly of that faith, courage, and abilitie, that were I to manage an enterpriſe of the greateſt moment that might be, I would not wiſh a better ſe<g ref="char:EOLhyphen"/>cond) they propounded to him that he ſhould have in reward 1000 pounds, 500 pounds for his life, and be made a Knight. You ſee, Sir, what ever the perfor<g ref="char:EOLhyphen"/>mance would have been, they were not ſpare in promiſes. <hi>Triſt</hi> told him he had a man of his, whom under colour of carrying Arms as a Voluntiere, he might employ as he ſaw cauſe, <hi>Beckwith,</hi> if appears before, had an eye to have corrupted <hi>Lowanger,</hi> for he had invited <hi>Lowanger</hi> to his houſe, and ſent him word he would beſtow a Gelding upon him, which he preſently then acquainted me with, and told me he thought there was ſome ill meant in it, and ſo would not go: He hath exceedingly laboured in the diſcovery of this, being in a great meaſure ſenſible of his honour herein. Upon <hi>Tueſday</hi> we cauſed the Lieutenant to write back to his father in-law that <hi>Lowanger</hi> liked well of the buſineſſe, but deſired ſome better aſ<g ref="char:EOLhyphen"/>ſurance of his reward then <hi>Triſt</hi> and <hi>Courtneys</hi> words, and ſent a boy with the Letter; and that it might appear to M<hi rend="sup">r</hi>. <hi>Beckwith</hi> to be carried with more ſecrecy, the boy was cauſed to put the Letter in his Shoe: the return was this Letter enclo<g ref="char:EOLhyphen"/>ſed; the originall (being well known to be his hand) I keep (to be ſent when the Parliament ſhall command) leſt it might miſcarry, as ſome other Letters of his, whereby his hand may be known. I have <hi>Triſts</hi> man in hold, who confeſſeth he was ſent hither by <hi>Triſt</hi> under colour to carry Arms to give Intelligence: and I find he had endeavoured to ſend to <hi>York</hi> diver<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of my ſouldiers. This morning I received a Letter from M<hi rend="sup">r</hi>. Major of <hi>Beverley,</hi> the Copie of which I ſend you, of divers aſſembled at M<hi rend="sup">r</hi>. <hi>Beckwiths</hi> houſe, We had another as I think, to ſurpriſe the Block-houſe, being the ſtrong Fort of the Town; but now that is, I have not yet made a full diſcovery.</p>
+            <p>I have ſent to the Major of <hi>Beverley</hi> to ſearch M<hi rend="sup">r</hi>. <hi>Beckwiths</hi> houſe, being a Re<g ref="char:EOLhyphen"/>cuſant, and to tender them the oath of Allegiance and Supremacy, and to know their names. If there had been open War, I could ſoon have told what to have done in this buſineſſe. And truly, If I ſhould have let the Plot gone on, and given them what they deſerved, I think, being they came that way to have taken the Town, I might have juſtified it before God and man: But being loath to be the
+<pb n="8" facs="tcp:133260:5"/>firſt letter of blood, I reſolved of another courſe, which was, To advertiſe <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Majeſty of the Plot diſcovered, leſt ſome ſhould adviſe Him upon a deſigne m<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> prove diſhonourable and dangerous to Him. This diſpatch I ſent away laſt night I ſhall trouble you no farther, but reſt,</p>
+            <closer>
+               <dateline>
+                  <hi>Hull,</hi> 
+                  <date>1642.</date>
+               </dateline>
+               <signed>Your affectionate faithfull friend, <hi>John Hotham.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="copy_of_letter">
+            <head>The true Copy of Maſter <hi>Beckwiths</hi> Letter, a Recuſant.</head>
+            <p>SOn, the Iron is hot, I gueſſe at the ſenſe of your Letter, that all is right as was intended for more ſecurity, in the morning, I expect ſtrong here. My Son went yeſternight to <hi>York,</hi> comes with great ones this night Lor: I ſend what I have from you this night thi<g ref="char:EOLhyphen"/>ther: if it may breed ſuſpition, Let your friend beleeve well, and not come to morrow; If I could ſend ſafe, I would, But the truſt holds on our part, as I ſhall be adviſed by your Fathers Maſter to morrow, I muſt work; yet this Boy is a fine way to come and return; Your Letters are ſo waſted in his ſhoe, as I gueſſe at the ſenſe, Yet ſend it broken with my expoſition, for I dare not bogle with promiſes, no doubt is to be made of any thing promiſed; J write more confidently, becauſe, J know your hand, J name none but your ſelf, he cannot come to morrow J fear, without ſuſpition, But J refer all to your ſelves, wiſhing to ſee him J mean (in the morning) it will be better ſatisfaction to him, to all here.</p>
+            <closer>
+               <signed>T. B.</signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <head>¶ The Oath of the Kings of ENGLAND, taken out of the <hi>Parliament</hi> Roll, 1 <hi>H.</hi> 
+               <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>N.</hi> 17.</head>
+            <p>The form of the Oath wont and accuſtomed to be taken upon their <hi>Coronation.</hi>
+            </p>
+            <p>YOu ſhall keep the Church of God, the Clergy and people, intirely in peace and concord in God, according to your power.</p>
+            <p>
+               <hi>He ſhall anſwer,</hi> I will keep them.</p>
+            <p>You ſhall cauſe equall and right juſtice in all your judgements and diſcretion, in mercy and truth, according to your power.</p>
+            <p>
+               <hi>He ſhall anſwer,</hi> I will do it.</p>
+            <p>You ſhall grant juſt Laws and Cuſtomes to be kept, and you ſhall promiſe that thoſe ſhall be protected by you, and to the honour of God to be ſtrengthened, which the common people ſhall chuſe, according to your power.</p>
+            <p>
+               <hi>He ſhall anſwer,</hi> I grant and promiſe it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133260:5" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
